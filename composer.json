@@ -1,5 +1,5 @@
 {
-    "name": "GreenClaim/scout-query-builder",
+    "name": "ViggoSoftware/scout-query-builder",
     "description": "Easily build Eloquent queries from API requests",
     "keywords": [
         "rmorskate",
